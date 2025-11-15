@@ -1,0 +1,29 @@
+Despite extensive global research efforts, predisposing 
+conditions and mechanisms leading to post-COVID remain 
+poorly understood. While age and sex have most frequently 
+been cited as predispositions, perturbations of the 
+peripheral immune system have been associated with its 
+pathogenesis. To deepen the current knowledge, we here 
+investigated the immunological landscapes of 44 post-COVID 
+patients and 44 sex-, age-, and vaccine-matched convalescents 
+using single-cell RNA sequencing (scRNA-seq) of peripheral 
+blood mononuclear cells (PBMCs). To validate the mRNA-based 
+findings, we measured plasma cytokine levels via Luminex 
+technology. Our analysis revealed only minor differences in 
+immune cell composition between the cohorts. In contrast, we 
+identified numerous differently expressed genes (DEGs) that 
+allowed for a clear clustering of patients and controls. 
+These transcriptomic changes were predominantly observed in 
+classical monocytes and were characterized by the 
+downregulation of inflammation-associated genes, including 
+IL1B, CCL3, -4, and -20 as well as CXCL1, -2, -3, and -8. 
+Further analysis of transcription factor activity hinted at 
+reduced inflammasome activity via SNAI1 and impaired 
+differentiation of classical monocytes due to reduced ATF2. 
+RNA velocity corroborated the findings of pre-mature 
+classical monocytes in post-COVID patients. Based on these 
+results, we hypothesize that patients either developed a 
+state of SARS-CoV-2-induced immune tolerance that contributed 
+to subsequent symptoms, or they possessed a predisposition 
+of impaired innate immunity prior to infection, that 
+facilitated the development of post-COVID.
